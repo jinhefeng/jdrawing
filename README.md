@@ -1,8 +1,12 @@
-# jdrawing
-Solidworks PMR Framework
+# JDRAWING - Solidworks PMR Framework
 ==== 
 ![image](https://github.com/jinhefeng/jdrawing/blob/master/images/PMR.png)
 本项目致力于创造一个程序、模型、参数化规则进行分离的二次开发世界，使程序员专注于程序、制图员专注于模型、机械工程师专注于参数化规则，从而各取所长良性发展。
+
+
+## Build enviroment.
+> ##### Windows 7
+> ##### SOLIDWORKS Professional 2016 x64 Edition SP5.0
 
 ## 应用举例
 > ##### 第一步，建立三维模版，在方程式中建立变量和尺寸的对应关系
@@ -27,4 +31,9 @@ Solidworks PMR Framework
 ## 注意事项：
 1. 本项目致力于让普通机械工程师也能进行Solidwork二次开发，有时为了操作的简便或许会牺牲一定的效率；
 2. 本项目首次提出了PMR框架，并在接下来的工作中请各位Contrubitor始终坚持这一原则；
-3. 本项目暂定基于Solidworks 2016开发
+
+
+## License.
+> ##### This material is released under the LGPL 3.0.
+## Copyright© 2015-2017 
+> ##### Jin Hefeng
