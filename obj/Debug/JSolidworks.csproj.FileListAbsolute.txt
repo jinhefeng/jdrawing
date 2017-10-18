@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\JHF_General\JSolidworks\bin\Debug\JSolidworks.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\JHF_General\JSolidworks\bin\Debug\JSolidworks.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\JHF_General\JSolidworks\bin\Debug\solidworkstools.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\JHF_General\JSolidworks\obj\Debug\JSolidworks.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\JHF_General\JSolidworks\obj\Debug\JSolidworks.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\JHF_General\JSolidworks\obj\Debug\JSolidworks.csprojResolveAssemblyReference.cache
+C:\Users\JHF\Documents\Visual Studio 2015\Projects\JHF_General\JSolidworks\bin\Debug\JSolidworks.dll
+C:\Users\JHF\Documents\Visual Studio 2015\Projects\JHF_General\JSolidworks\bin\Debug\JSolidworks.pdb
+C:\Users\JHF\Documents\Visual Studio 2015\Projects\JHF_General\JSolidworks\bin\Debug\solidworkstools.dll
+C:\Users\JHF\Documents\Visual Studio 2015\Projects\JHF_General\JSolidworks\obj\Debug\JSolidworks.csprojResolveAssemblyReference.cache
+C:\Users\JHF\Documents\Visual Studio 2015\Projects\JHF_General\JSolidworks\obj\Debug\JSolidworks.dll
+C:\Users\JHF\Documents\Visual Studio 2015\Projects\JHF_General\JSolidworks\obj\Debug\JSolidworks.pdb

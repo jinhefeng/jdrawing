@@ -1,2 +1,2 @@
 # jdrawing
-Solidworks PMR Framework
+Solidworks 二次开发模块
