@@ -1,5 +1,4 @@
 # JDRAWING - Solidworks PMR Framework
-==== 
 ![image](https://github.com/jinhefeng/jdrawing/blob/master/images/PMR.png)
 本项目致力于创造一个程序、模型、参数化规则进行分离的二次开发世界，使程序员专注于程序、制图员专注于模型、机械工程师专注于参数化规则，从而各取所长良性发展。
 
